@@ -1,0 +1,17 @@
+name: Steve_repo
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - matplotlib
+  - scipy
+  - numpy
+  - math
+  - jupyter
+  - nbformat
+  - mayavi
+  - pyqt5
+  - pip
+  - pip:
+    - nmrglue
