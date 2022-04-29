@@ -7,11 +7,10 @@ dependencies:
   - matplotlib
   - scipy
   - numpy
-  - math
   - jupyter
   - nbformat
   - mayavi
-  - pyqt5
   - pip
   - pip:
     - nmrglue
+    - pyqt5
