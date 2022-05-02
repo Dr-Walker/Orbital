@@ -5,13 +5,14 @@ channels:
 dependencies:
   - python>=3.6
   - matplotlib
-  - vtk=9.0.1
   - scipy
   - numpy
   - jupyter
   - nbformat
-  - mayavi
   - pip
   - pip:
-    - nmrglue
-    - pyqt5==5.11.3
+    - vtk
+    - pyqt5
+    - mayavi
+
+    
