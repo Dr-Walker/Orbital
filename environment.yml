@@ -5,7 +5,7 @@ channels:
 dependencies:
   - python>=3.6
   - matplotlib
-  - vtk
+  - vtk=9.0.1
   - scipy
   - numpy
   - jupyter
@@ -14,4 +14,4 @@ dependencies:
   - pip
   - pip:
     - nmrglue
-    - pyqt5
+    - pyqt5==5.11.3
