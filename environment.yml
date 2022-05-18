@@ -11,7 +11,7 @@ dependencies:
   - nbformat
   - pip
   - pip:
-    - vtk
+    - vtk>=9.0
     - pyqt5
     - mayavi
 
