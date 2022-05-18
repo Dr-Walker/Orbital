@@ -9,9 +9,9 @@ dependencies:
   - numpy
   - jupyter
   - nbformat
+  - vtk
   - pip
   - pip:
-    - vtk>=9.0
     - pyqt5
     - mayavi
 
