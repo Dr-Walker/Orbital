@@ -10,8 +10,9 @@ dependencies:
   - jupyter
   - nbformat
   - vtk
-  - pyqt5
   - mayavi
-    
+  - pip
+  pip:
+  -pyqt5
 
     
